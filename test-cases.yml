@@ -28,8 +28,6 @@
     Google Chrome
     Mozilla Firefox
     Яндекс браузер
-    Opera
-    Microsoft Edge
   test-data: |
     Тестовые данные
     https://hexlet-products-store.vercel.app/
@@ -49,7 +47,6 @@
     Сайт корректно отображается на различных (заявленных) устройствах, разрешениях экранов:
     Смартфоны
     Планшеты
-    Мониторы
   prerequisites: |
     Открыт браузер
     Открыт Devtools
