@@ -1,4 +1,4 @@
-- summary: |
+     - summary: |
     Некорректное отображение верстки сайта в браузерах: Google Chrome, Mozzila FireFox, Yandex
   environment: |
     Google Chrome Версия 128.0.6613.138 (Официальная сборка), (64 бит)
