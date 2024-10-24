@@ -28,8 +28,11 @@
   prerequisites: |
     
   test-data: |
-    Тестовые данные
-    Разрешения:
+    Iphone SE (375 X 667)
+    Iphone 14 Pro MAx (430 x 932)
+    Samsung S8 (360 X 740)
+    Ipad Pro (1024 X 1366)
+    NEST Hub Max (1280 X 800)
   steps:
     - Открываем в браузере Devtools
   expected-result: |
