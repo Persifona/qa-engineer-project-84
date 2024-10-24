@@ -1,6 +1,6 @@
     ---
 - summary: |
-    Проверка работы сайта ИМ в различных браузерах. Проверка свойства кроссбраузерности сайта
+    Кроссбраузерная проверка
   requirement: |
     В основных браузерах сайт нормально отображается и работает
   prerequisites: |
@@ -9,11 +9,13 @@
     Mozilla Firefox
     Яндекс браузер
   test-data: |
-    Тестовые данные
+    Google Chrome
+    Mozilla Firefox
+    Яндекс браузер
     https://hexlet-products-store.vercel.app/
   steps:
     - Открываем ссылку в каждом из указанных браузерах:
-   Google Chrome
+    Google Chrome
     Mozilla Firefox
     Яндекс браузер
     
