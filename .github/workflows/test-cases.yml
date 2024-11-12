@@ -9,9 +9,7 @@
     Mozilla Firefox
     Яндекс браузер
   test-data: |
-    Google Chrome
-    Mozilla Firefox
-    Яндекс браузер
+    no-data
   steps:
     Открыть ссылку на сайт в следующих браузерах
     Google Chrome
