@@ -5,11 +5,20 @@ job: QA Engineer
 level: junior
 email: 
 description: |
-  
+  I'm just starting my journey in manual testing. 
 
   
 skills: 
   - Функциональное тестирование
   - Написание багрепортов
-  - Linux
+  - Владение Linux
+  - Тест-дизайн, пирамида тестирования
+  - Знание процесса разработки, жизненного цикла ПО
+  - Знание сетей, tcp/ip, http
+  - Знание SQL на уровне
+Tools:
+  - DevTools
+  - Postman
+  
+
 
